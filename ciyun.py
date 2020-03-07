@@ -7,6 +7,7 @@ from PIL import Image
 from wordcloud import WordCloud, STOPWORDS
 import collections  # 词频统计库
 import re
+import scrapy
 
 CURDIR = os.path.abspath(os.path.dirname(__file__))
 TEXT = os.path.join(CURDIR, 'ciyun.txt')

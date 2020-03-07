@@ -1,3 +1,4 @@
+# coding=utf-8
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
 font = FontProperties(fname=r"C:\Windows\Fonts\simhei.ttf", size=14)
